@@ -34,3 +34,5 @@ This 100 days of code series will help you learn python from starting to the end
 <li>You can easily fork this repl and continue learning in your own style. Video, code as well as text tutorial on the same page which makes things easy!</li>
 <li>For fellow teachers out there, you create a .tutorial folder to create tutorials using replit.</li>
 </ul>
+
+<a href="https://replit.com/@codewithharry/02-Day2-Application-of-Python#.tutorial/Tutorial.md" target="_self" > Next Lesson&gt;&gt; </a>
