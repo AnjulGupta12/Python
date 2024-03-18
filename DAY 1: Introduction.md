@@ -35,4 +35,4 @@ This 100 days of code series will help you learn python from starting to the end
 <li>For fellow teachers out there, you create a .tutorial folder to create tutorials using replit.</li>
 </ul>
 
-<a href="https://github.com/AnjulGupta12/Python/blob/main/Application%20Of%20Python.md" target="_self" > Next Lesson&gt;&gt; </a>
+<a href="https://github.com/AnjulGupta12/Python/blob/main/DAY%202:%20Application%20Of%20Python.md" target="_self" > Next Lesson&gt;&gt; </a>
